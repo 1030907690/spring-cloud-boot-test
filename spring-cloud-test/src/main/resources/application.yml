@@ -1,0 +1,16 @@
+server:
+  port: 8081 #如果端口不是8888有问题，优先级关系 使用bootstrap.yaml就好
+
+info:
+  name: spring-cloud配置中心
+  contact: spring-cloud配置中心
+
+spring:
+  profiles:
+    active: native #启动从本地读取配置文件，必须指定active的值，才可以使用本地文件配置模式
+  cloud:
+    config:
+      server:
+        native:
+          searchLocations: file:/Users/Macx/Desktop/workSpace/spring-cloud-boot-test/config-repo
+          #searchLocations: classpath:/config
