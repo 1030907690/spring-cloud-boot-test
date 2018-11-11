@@ -12,5 +12,5 @@ spring:
     config:
       server:
         native:
-          searchLocations: file:/Users/Macx/Desktop/workSpace/spring-cloud-boot-test/config-repo
-          #searchLocations: classpath:/config
+          #searchLocations: file:/Users/Macx/Desktop/workSpace/spring-cloud-boot-test/config-repo
+          searchLocations: classpath:/config

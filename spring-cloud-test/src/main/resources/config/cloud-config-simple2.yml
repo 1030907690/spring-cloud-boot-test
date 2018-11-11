@@ -1,2 +1,3 @@
 spring:
-  value: 12
+  custom:
+    value: test-cloud-config-xffsffff
