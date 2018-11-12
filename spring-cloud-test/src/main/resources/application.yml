@@ -12,5 +12,6 @@ spring:
     config:
       server:
         native:
-          #searchLocations: file:/Users/Macx/Desktop/workSpace/spring-cloud-boot-test/config-repo
-          searchLocations: classpath:/config
+          searchLocations: file:F:/work/spring-cloud-boot-test/config-repo
+          #放在当前项目下热更新不了
+          #searchLocations: classpath:/config
