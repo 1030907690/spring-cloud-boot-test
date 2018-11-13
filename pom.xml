@@ -13,7 +13,9 @@
     <modules>
         <module>spring-boot-test</module>
         <module>spring-cloud-test</module>
-        <module>eureka</module>
+        <!--<module>eureka-server</module>-->
+        <module>spring-boot-eureka-client-test</module>
+        <module>spring-boot-eureka-server-test</module>
     </modules>
 
 

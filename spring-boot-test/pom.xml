@@ -26,6 +26,8 @@
 
     <dependencies>
 
+
+
         <!-- 监控的功能 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
