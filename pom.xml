@@ -16,6 +16,7 @@
         <!--<module>eureka-server</module>-->
         <module>spring-boot-eureka-server-test</module>
         <module>spring-boot-eureka-provider-test</module>
+        <module>spring-boot-eureka-provider-test2</module>
         <module>spring-boot-eureka-consumer-test</module>
         <module>spring-hystrix-test</module>
         <module>spring-boot-hystrix-server-test</module>
