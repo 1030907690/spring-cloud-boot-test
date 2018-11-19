@@ -16,7 +16,7 @@ import org.springframework.context.annotation.Bean;
  *
  * 添加 http://localhost:9098/hystrix.stream
  *
- * 访问了http://localhost:9098/的接口才能看到Hystrix 的图
+ * 访问了http://localhost:9098/的接口才能看到Hystrix 的图,不然会停留在loading
  * **/
 @SpringBootApplication
 @EnableHystrixDashboard
