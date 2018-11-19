@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka.iml" filepath="$PROJECT_DIR$/eureka-server/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-provider-test/spring-boot-eureka-client-test.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-provider-test/spring-boot-eureka-client-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-consumer-test/spring-boot-eureka-consumer-test.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-consumer-test/spring-boot-eureka-consumer-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-provider-test/spring-boot-eureka-provider-test.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-provider-test/spring-boot-eureka-provider-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-server-test/spring-boot-eureka-server-test.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-server-test/spring-boot-eureka-server-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka-consumer-test/spring-boot-eureka-service-test.iml" filepath="$PROJECT_DIR$/spring-boot-eureka-consumer-test/spring-boot-eureka-service-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-hystrix-server-test/spring-boot-hystrix-server-test.iml" filepath="$PROJECT_DIR$/spring-boot-hystrix-server-test/spring-boot-hystrix-server-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" filepath="$PROJECT_DIR$/spring-boot-test/spring-boot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-boot-test.iml" filepath="$PROJECT_DIR$/spring-cloud-boot-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-test/spring-cloud-test.iml" filepath="$PROJECT_DIR$/spring-cloud-test/spring-cloud-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-hystrix-test/spring-hystrix-test.iml" filepath="$PROJECT_DIR$/spring-hystrix-test/spring-hystrix-test.iml" />
+    </modules>
+  </component>
+</project>
