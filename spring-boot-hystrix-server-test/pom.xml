@@ -26,7 +26,7 @@
 	</properties>
 
 	<dependencies>
-		<!--添加Hystrix启动器和仪表板依赖项-->
+		<!-- 添加Hystrix启动器和仪表板依赖项 -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-hystrix</artifactId>
