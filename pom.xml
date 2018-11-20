@@ -20,6 +20,9 @@
         <module>spring-boot-eureka-consumer-test</module>
         <module>spring-hystrix-test</module>
         <module>spring-boot-hystrix-server-test</module>
+        <module>spring-cloud-consul-student</module>
+        <module>spring-cloud-consul-student2</module>
+        <module>spring-cloud-consul-school</module>
 
     </modules>
 
