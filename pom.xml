@@ -23,6 +23,7 @@
         <module>spring-cloud-consul-student</module>
         <module>spring-cloud-consul-student2</module>
         <module>spring-cloud-consul-school</module>
+        <module>custom-spring-boot</module>
 
     </modules>
 
